@@ -15,6 +15,8 @@ To use this application, please install:
 ## Usage
 After installing the required packages, use the command line to navigate to the root of the application and run node app. Follow prompts to enter player name and play the RPG.
 
+![100-game-functionality.gif](https://github.com/mflanigan13/jest-another-RPG/blob/main/_mocks_/100-game-functionality.gif)
+
 ## Tests
 To run tests on the application, install
 
