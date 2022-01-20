@@ -1,4 +1,4 @@
-# Jest Anoter RPG
+# Jest Another RPG
 
 ## Description
 A simple, text-based RPG created as an introduction to Node.js, test-driven development, and object-oriented programming.
